@@ -45,6 +45,7 @@
 
 ```js
 const tinh = {
+  name: "Huỳnh Đức Tính", // Vietnamese name
   pronouns: "he/him",
   location: "Vietnam 🇻🇳",
   education: "M.Eng (AI) | B.AI (GPA 8.3/10)",
